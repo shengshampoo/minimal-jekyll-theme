@@ -8,7 +8,7 @@ description : Your awesome site
 author      : Joe Bloggs
 email       : your-email@domain.com
 baseurl     : "/minimal-jekyll-theme" # the subpath of your site, e.g. /blog
-url         : "https://desiredpersona.github.io"
+url         : "https://shengshampoo.github.io"
 date_format : "%-d %b %Y"
 port        : 5000
 
