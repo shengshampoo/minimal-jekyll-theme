@@ -1,4 +1,4 @@
-################################
+desiredpersona.github.io################################
 # Site Settings
 ################################
 lang        : "en"
@@ -8,7 +8,7 @@ description : Your awesome site
 author      : Joe Bloggs
 email       : your-email@domain.com
 baseurl     : "/minimal-jekyll-theme" # the subpath of your site, e.g. /blog
-url         : "https://shengshampoo.github.io"
+url         : "https://desiredpersona.github.io"
 date_format : "%-d %b %Y"
 port        : 5000
 
